@@ -59,6 +59,7 @@ namespace Lab13
                 if (answer == "y")
                 {
                     co = true;
+                    Console.Clear();
                 }
                 else
                 {
